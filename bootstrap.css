@@ -340,6 +340,7 @@ th {
 
 label {
   display: inline-block;
+  font-family: sans-serif;
 }
 
 button {
