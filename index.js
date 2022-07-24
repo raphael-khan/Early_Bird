@@ -5,6 +5,7 @@ const app = express()
 
 app.set("view engine", "ejs")
 
+app.use(express.static(__dirname + "/"))
 app.use(express.urlencoded({ extended: false }))
 
 // Connect to MongoDB
