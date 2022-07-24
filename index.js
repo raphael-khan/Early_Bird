@@ -1,6 +1,6 @@
 const express = require("express")
 const mongoose = require("mongoose")
-import "bootswatch/dist/quartz/bootstrap.min.css"
+import "./bootstrap.min.css"
 
 const app = express()
 
