@@ -1,6 +1,5 @@
 const express = require("express")
 const mongoose = require("mongoose")
-import "./bootstrap.min.css"
 
 const app = express()
 
