@@ -1,6 +1,6 @@
 # A simple task list project that utilizes Docker.
 
-Containerzing the node app and mongodb databse image build into seperate containers. 
+Containerzing a node app and a mongodb databse image build into seperate containers. 
 Created Docker-Compose.yml to link the two containers and run together. 
 Used Digital Ocean server to run the containers.  
 
